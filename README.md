@@ -37,6 +37,12 @@ Runtimes (in parentheses at end) are estimated with parallelization where applic
 4) mvswm_cal_trivar-stats_hi-flow.R: Calculates observed and SWM high flow design statistics (20 min per 1000 samples)
 5) mvswm_cal_trivar-stats_lo-flow.R: Calculates observed and SWM low flow design statistics (20 min per 1000 samples)
 
+#### Plotting routines {plot subdirectory}
+
+1) plot/plot_all-site-correlation_fig1.R: Plot Spearman error correlations across all 14 sites
+2) plot/plot_fit-distributions_intermittency_corr_fig3_ggplot.R: Plots verification statistics for Figure 3
+3) plot/plot_ts_density_bar_fig4_ggplot.R: Plots validation statistics for Figure 4
+
 #### Miscellaneous
 
 #### Contact

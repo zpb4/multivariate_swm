@@ -37,6 +37,11 @@ Runtimes (in parentheses at end) are estimated with parallelization where applic
 4) mvswm_cal_trivar-stats_hi-flow.R: Calculates observed and SWM high flow design statistics (20 min per 1000 samples)
 5) mvswm_cal_trivar-stats_lo-flow.R: Calculates observed and SWM low flow design statistics (20 min per 1000 samples)
 
+#### Miscellaneous
+
+#### Contact
+Zach Brodeur, zpb4@cornell.edu
+
 #### Plotting routines
 
 - main_plot.R: Main plotting script for manuscript figures
